@@ -6,7 +6,7 @@
 
 ### Developer, Entrepreneur, Maker.  
 I’m a full-stack developer passionate about open source and Javascript, especially Node and React ecosystems.<br /> 
-🛠 I’m currently working on [Guardo.io](https://github.com/rishavanand/github-profilinator)
+🛠 I’m currently building [Guardo.io](https://github.com/rishavanand/github-profilinator)
 the easiest way to collect, organize and bookmark any link on the web.  
  
 ## Languages and Tools  
