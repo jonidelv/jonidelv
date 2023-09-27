@@ -6,8 +6,7 @@
 
 ### Developer, Entrepreneur, Maker.  
 Developer passionate about open source and Javascript, especially Node and React ecosystems.<br /> 
-🛠 I’m currently building [Guardo.io](https://guardo.io/)
-the easiest way to collect, organize, and bookmark any link on the web.  
+I’ve built and sold [Guardo.io](https://guardo.io/) a product with 2500+ users. Led full-stack development, marketing, and company operations from inception to acquisition.
  
 ## Languages and Tools  
 <div>  
