@@ -5,9 +5,9 @@
 
 
 ### Developer, Entrepreneur, Maker.  
-I’m a full-stack developer passionate about open source and Javascript, especially Node and React ecosystems.<br /> 
+Developer passionate about open source and Javascript, especially Node and React ecosystems.<br /> 
 🛠 I’m currently building [Guardo.io](https://guardo.io/)
-the easiest way to collect, organize and bookmark any link on the web.  
+the easiest way to collect, organize, and bookmark any link on the web.  
  
 ## Languages and Tools  
 <div>  
