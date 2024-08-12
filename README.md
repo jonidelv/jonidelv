@@ -5,7 +5,7 @@
 
 
 ### Developer, Entrepreneur, Maker.  
-Developer passionate about open source and Javascript, especially Node and React ecosystems.<br /> 
+Developer passionate about open source, Go, and Javascript, especially Node and React ecosystems.<br /> 
 I’ve built and sold [Backtoit.io](https://backtoit.io/) a product with 2500+ users. Led full-stack development, marketing, and company operations from inception to acquisition.
  
 ## Languages and Tools  
@@ -21,7 +21,9 @@ I’ve built and sold [Backtoit.io](https://backtoit.io/) a product with 2500+ u
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="25"> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25"> 
 </div>  
 
 <br/>  
