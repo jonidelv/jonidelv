@@ -25,14 +25,3 @@ I’ve built and sold [Backtoit.io](https://backtoit.io/) a product with 2500+ u
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="25"> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25"> 
 </div>  
-
-<br/>  
-
-
-## Github Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonidelv&hide_border=true&layout=compact" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=jonidelv&show_icons=true&count_private=true&hide_border=true" width="45%">
-</p>
