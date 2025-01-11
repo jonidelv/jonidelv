@@ -1,4 +1,4 @@
-## Hey 👋  I'm Jonatan!  
+## Hey I'm Jonatan!  
   
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=jonidelv&&style=flat-square)  
